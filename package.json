@@ -1,10 +1,13 @@
 {
   "name": "vchatz",
   "version": "1.0.0",
+  "homepage": "http://tripathySuraj.github.io/Chat-App",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon backend/server.js"
+    "start": "nodemon backend/server.js",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "author": "dhanush ram",
   "license": "ISC",
