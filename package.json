@@ -1,7 +1,7 @@
 {
   "name": "vchatz",
   "version": "1.0.0",
-  "homepage": "http://tripathySuraj.github.io/Chat-App",
+  "homepage": "http://TripathySuraj.github.io/Mern-Chat-App",
   "description": "",
   "main": "server.js",
   "scripts": {
